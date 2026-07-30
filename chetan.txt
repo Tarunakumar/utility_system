@@ -1,0 +1,12 @@
+**Self Introduction**
+
+Hello, my name is **Chetan A M**. I have completed my Bachelor's degree in Computer Science Engineering.
+
+I have developed a strong foundation in **Python, SQL, Excel, Power BI, Pandas, NumPy, Git, and GitHub**. I enjoy working with data to solve business problems and create meaningful insights through dashboards and reports.
+
+As part of my learning, I have completed projects such as **Sales Data Analysis using Python and Power BI**, where I cleaned, analyzed, and visualized data to identify sales trends and business performance. I have also worked on projects involving data processing and reporting, which strengthened my analytical and problem-solving skills.
+
+I am a quick learner, adaptable, and enjoy working in collaborative environments. I am currently looking for an entry-level opportunity where I can apply my technical skills, continue learning from experienced professionals, and contribute to the organization's success.
+
+Thank you for giving me the opportunity to introduce myself.
+
